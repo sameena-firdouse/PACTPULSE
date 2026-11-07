@@ -1,0 +1,6 @@
+{
+  "name": "PactPulse AI",
+  "description": "An AI Workforce Scheduling and Recovery Agent that learns from previous workdays using Gemini and Hindsight long-term memory to create better future schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

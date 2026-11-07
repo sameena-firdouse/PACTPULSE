@@ -1,0 +1,26 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+*.db
+*.sqlite
+*.sqlite3
+service-account*.json
+firebase-adminsdk*.json
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Local data
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# Credentials
+service-account*.json
+firebase-adminsdk*.json
